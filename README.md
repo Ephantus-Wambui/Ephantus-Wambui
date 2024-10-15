@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ephantus-Wambui
-- 👀 I’m interested in programming
+- 👀 I’m interested in computational biology
 - 🌱 I’m currently learning genome assembly
 
 <!--

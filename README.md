@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ephantus Wambui
 - 👀 I’m interested in computational biology
-- 🌱 I’m currently learning genome assembly
 
 <!--
 **Ephantus-Wambui/Ephantus-Wambui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
